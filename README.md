@@ -1,6 +1,7 @@
 # My Store (store)
 
 A Siple Store
+[Demo](https://fakestore.vercel.app/#/)
 
 ## Install the dependencies
 ```bash
